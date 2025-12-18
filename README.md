@@ -1,7 +1,10 @@
 ## 仓库介绍
 仓库里的源码文件是官方原版4.0.4备份
+
 常见使用问题：[https://www.xiunobbs.cn/thread-132.htm](https://www.xiunobbs.cn/thread-132.htm)
+
 基于原版，删除失效官方插件商店，解决插件列表打开缓慢的问题，删除后台首页失效的友联
+
 微修复下载：[https://wxsnote.cn/462.html](https://wxsnote.cn/462.html)
 
 ## 以下是原版介绍
