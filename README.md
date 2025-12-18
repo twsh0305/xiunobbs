@@ -1,5 +1,5 @@
 ## 仓库介绍
-仓库里的源码文件是官方原版4.0.4备份
+仓库里的源码文件复刻自官方原版4.0.4备份，仅readme.md加了顶部几段话
 
 常见使用问题：[https://www.xiunobbs.cn/thread-132.htm](https://www.xiunobbs.cn/thread-132.htm)
 
