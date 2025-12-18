@@ -1,9 +1,19 @@
+## 仓库介绍
+仓库里的源码文件是官方原版4.0.4备份
+常见使用问题：[https://www.xiunobbs.cn/thread-132.htm](https://www.xiunobbs.cn/thread-132.htm)
+基于原版，删除失效官方插件商店，解决插件列表打开缓慢的问题，删除后台首页失效的友联
+微修复下载：[https://wxsnote.cn/462.html](https://wxsnote.cn/462.html)
+
+## 以下是原版介绍
+
 ### 【Xiuno BBS 4.0 是什么？】
 Xiuno BBS 4.0 是一款轻论坛产品，前端基于 BootStrap 4.0、JQuery 3，后端基于 PHP/7 MySQL XCache/Yac/Redis/Memcached...
 
 自适应手机、平板、PC，有着非常方便的插件机制，不仅仅是一个轻论坛，还是一个良好的二次开发平台。
 
-git： https://git.oschina.net/xiuno/xiunobbs.git
+git：```https://github.com/twsh0305/xiunobbs.git```
+
+docker：[https://github.com/rayfalling/xiuno-docker](https://github.com/rayfalling/xiuno-docker)
 
 ### 【Xiuno BBS 4.0 带来了什么？】
 前端采用 BootStrap 4 + JQuery 3，响应式布局，自适应手机，平板，PC 设备，不再需要单独开发移动版本。
@@ -56,10 +66,10 @@ Xiuno BBS 4.0 采用 MIT 协议发布，您可以自由修改、派生版本、�
 我们承诺对主程序永远免费，在没有盈利前接受正派人士的捐赠。
 
 ### 【站长交流群】
-474834730
+474834730(失效)
 
 ### 【开发者群】
-2759536
+2759536(失效)
 
 axiuno@gmail.com
 2018/1/17
